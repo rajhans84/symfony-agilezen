@@ -1,6 +1,6 @@
 parameters:
   agilezen.class: Raj\StorageBundle\Utils\AgileZen
-  agilezen.apikey: '41a6e6599a3a4a908fff60f5b811cd9f'
+  agilezen.apikey: 'fa401a9d8aab4c968781fddf2119daba'
   agilezen.apiurl: 'https://agilezen.com/api/v1/'
 
   storage_manager.class: Raj\StorageBundle\Utils\StorageManager
